@@ -1,0 +1,7 @@
+//Created By Dilshad Ferdousi
+
+1. The test project is done by Selenium with Protractor.
+2. To run this You need node installed.
+3. Go to : https://www.protractortest.org/#/ and install Protractor.
+3. I've used spec reporter for showing result runtime in the console.---$ npm install protractor-html-spec-reporter --save-dev
+5. I've used protractor-jasmine2-screenshot-reporter for the reporting.--- $ npm install protractor-jasmine2-screenshot-reporter --save-dev
